@@ -1,21 +1,9 @@
-# MOIDA ( 2021.10.25 ~ 2021.11.30 )
+# MOIDA
+### [SW중심대학] 숭실대학교 웹/앱서비스 개발 경진대회( 2021.10.25 ~ 2021.12.01 )
+> 
 > MZ세대가 부담 없이 재미있게 즐길 수 있는 챌린지
 
 <img src="/src/res/img/landingpage2.gif"  />
-
-## Installing
-
-```
-yarn install
-```
-
-## Running
-
-```sh
-yarn start
-
-yarn start:server  //서버실행
-```
 
 ## Stack
 
